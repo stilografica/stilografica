@@ -19,6 +19,10 @@ Desarrolladora Front-End Junior apasionada del diseño. Estudié Publicidad y Re
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
+### CMS
+![Wordpress](https://img.shields.io/badge/-Wordpress-61DAFB?style=flat-square&logo=wordpress&logoColor=ffffff)
+![Joomla](https://img.shields.io/badge/-Joomla-194c7f?style=flat-square&logo=joomla&logoColor=ffffff)
+
 ### Gestor de paquetes
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
