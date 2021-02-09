@@ -33,7 +33,7 @@ Desarrolladora Front-End Junior apasionada del diseño. Estudié Publicidad y Re
 ### Editor de código
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-### Diseño y wireframe y prototipado
+### Diseño, wireframe y prototipado
 ![Figma](http://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=ffffff)
 ![Adobe Xd](http://img.shields.io/badge/-Abode%20Xd-470137?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-ff9934?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
