@@ -16,6 +16,7 @@ Desarrolladora Front-End Junior apasionada del diseño. Estudié Publicidad y Re
 
 ### Frameworks y librerías
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-42b983?style=flat-square&logo=vue&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
@@ -25,6 +26,7 @@ Desarrolladora Front-End Junior apasionada del diseño. Estudié Publicidad y Re
 
 ### Gestor de paquetes
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-25799f?style=flat-square&logo=yarn)
 
 ### Control de versiones y gestión de proyectos
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
