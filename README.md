@@ -1,4 +1,3 @@
-# Hola, soy Miriam Hinojo <img align='right' src="https://stilografica.es/miriamAvatar.jpg" width="196px">
 Desarrolladora Front-End Junior apasionada del diseño. Estudié Publicidad y Relaciones Públicas en la Universitat Autònoma de Barcelona y decidí adentrarme en el mundo web. Cuento con una trayectoria de más de 6 años diseñando y maquetando aplicaciones web. 
 
 💼 - Frontend Developer with Vue.js en Nectios
