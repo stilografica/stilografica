@@ -43,7 +43,5 @@ Desarrolladora Frontend Junior apasionada del diseño. Estudié Publicidad y Rel
 
 ## Contacto
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/miriamhinojo/)
-[<img src="https://img.shields.io/badge/codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white&color=black" />](https://codepen.io/miriamhinojo)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://miriamhinojo.stilografica.es)
 
 
