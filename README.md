@@ -1,6 +1,8 @@
-Desarrolladora Frontend Junior apasionada del diseño. Estudié Publicidad y Relaciones Públicas en la Universitat Autònoma de Barcelona y decidí adentrarme en el mundo web. Cuento con una trayectoria de más de 7 años diseñando y maquetando aplicaciones web. 
+Como desarrolladora frontend especializada en Vue.js y con un interés destacado en la experiencia de usuario, he adquirido una gran cantidad de habilidades y experiencia en varios aspectos clave. Por ejemplo, tengo experiencia en la creación de aplicaciones web altamente interactivas y personalizables utilizando Vue.js. Además, tengo experiencia en la creación de interfaces de usuario intuitivas y atractivas que mejoran la experiencia del usuario final.
 
-💼 - Frontend Developer with Vue.js en Nectios
+También he desarrollado habilidades en la implementación de pruebas de usabilidad y en la recopilación de comentarios y análisis de datos para mejorar continuamente la experiencia del usuario. Mi experiencia en diseño responsivo y en la optimización del rendimiento también me ha permitido crear aplicaciones web altamente eficientes y de carga rápida para los usuarios finales.
+
+En resumen, mi experiencia laboral en el desarrollo de aplicaciones web con tecnologías de vanguardia, la construcción de componentes modulares y reutilizables, y mi pasión por la experiencia de usuario (UX) me hacen un candidato ideal para cualquier empresa que busque un desarrollador frontend altamente capacitado y comprometido con la excelencia en el desarrollo web.
 
 ## Languajes y herramientas 🛠 
 
